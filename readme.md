@@ -1,0 +1,1 @@
+Esta Landing page contém algumas informações do que eu faço e habilidades que desenvolvi com alguns links de contato.
